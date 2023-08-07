@@ -28,3 +28,9 @@ int main() {
     convertCamelCase(s);
     return 0;
 }
+/* output:
+A
+aN
+tHE
+
+*/
